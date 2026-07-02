@@ -1,2 +1,23 @@
-# smart-agri-park
-A modern smart agriculture park website featuring product traceability, responsive design, and an admin management system.
+# Smart Agriculture Park
+
+## Overview
+
+Smart Agriculture Park is a modern enterprise website that showcases smart farming, ecological agriculture, and product traceability.
+
+## Project Structure
+
+docs/
+
+frontend/
+
+backend/
+
+assets/
+
+## Development
+
+Coming soon.
+
+## License
+
+MIT
